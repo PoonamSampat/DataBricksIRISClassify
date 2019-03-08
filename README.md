@@ -1,4 +1,4 @@
-# DataBricksIRISClassify
+# DataBricks IRIS Classification Tensor Flow
 IRIS Classification on Azure Databricks using Tensor Flow
 
 What is Azure Databricks?
